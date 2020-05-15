@@ -1,4 +1,7 @@
 public class Ana {
-    System.out.println("munte");
+    public void ana(){
+        System.out.println("munte");
+    }
+
 }
 
